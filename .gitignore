@@ -1,0 +1,33 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+ARapp_BurstDebugInformation_DoNotShip/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+*.app/
+
+
+# iOS / Xcode (Unity export)
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+Pods/
+Unity-iPhone/
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+
+# Crash reports
+sysinfo.txt
+
+#App builds 
+*.app/
